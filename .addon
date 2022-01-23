@@ -1,0 +1,13 @@
+{
+  "SharedAssets": "*.*",
+  "Title": "Grass Lands",
+  "Type": "map",
+  "Org": "ItsRifters Stuff",
+  "Ident": "grass_lands",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "HasCode": true,
+  "CodePath": "/code/",
+  "RootNamespace": "Sandbox"
+}
